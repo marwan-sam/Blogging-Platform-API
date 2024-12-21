@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WVNSdxl6rw8=",
+  "success": true,
+  "projectFilePath": "/home/sam-pc/Desktop/Projects/Docker/BloggingPlatform/src/BloggingPlatform.API/BloggingPlatform.API.csproj",
+  "expectedPackageFiles": [
+    "/home/sam-pc/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/home/sam-pc/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
