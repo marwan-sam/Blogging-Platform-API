@@ -1,6 +1,6 @@
 
 ### Structure Project :
-|
+```
 BloggingPlatform/
 ├── src/
 │   ├── BloggingPlatform.API/             # API Gateway
@@ -37,11 +37,11 @@ BloggingPlatform/
 │   ├── docker-compose.override.yml
 │   └── Dockerfile
 └── BloggingPlatform.sln
-
+```
 
 
 ### Diagram:
-
+```
 +-------------------------------+                     +----------------------------------+
 |           API Gateway         |                     | Notification Service (Twilio/   |
 +-------------------------------+                     | SendGrid)                       |
@@ -77,3 +77,4 @@ BloggingPlatform/
   +----------------------------------+
   |       Social Sharing Service     |
   +----------------------------------+
+```
